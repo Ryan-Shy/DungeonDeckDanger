@@ -1,0 +1,23 @@
+{
+  "name": "Strong Sweep Attack",
+  "icon": "icons/battle-axe",
+  "audio": "audio/Sword_2s",
+  "type": 1,
+  "effects": [
+    {
+      "damage": 12,
+      "block": 0,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": true,
+      "hitsEnemy": false,
+      "hitDelays": [2.0],
+      "range": 5.0,
+      "size": 5.0,
+      "aoe_type": 2,
+      "keyword": "AOE 12",
+      "description": "Deals 12 range damage in a large area in front."
+    }
+  ],
+  "cardID": 1023
+}

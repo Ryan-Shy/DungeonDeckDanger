@@ -1,0 +1,37 @@
+{
+  "name": "Explosion",
+  "icon": "icons/explosion-rays",
+  "audio": "audio/empty",
+  "type": 1,
+  "effects": [
+    {
+      "damage": 9,
+      "block": 0,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": false,
+      "hitsEnemy": true,
+      "hitDelays": [1.5],
+      "range": 15.0,
+      "size": 15.0,
+      "aoe_type": 0,
+      "keyword": "AOE 9",
+      "description": "Deals 9 range damage in a large circle in front."
+    },
+    {
+      "damage": 3,
+      "block": 0,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": true,
+      "hitsEnemy": false,
+      "hitDelays": [0.1],
+      "range": 0.0,
+      "size": 0.1,
+      "aoe_type": 0,
+      "keyword": "Selfharm 3",
+      "description": "Deal 3 Self damage."
+    }
+  ],
+  "cardID": 904
+}

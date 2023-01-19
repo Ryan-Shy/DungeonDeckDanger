@@ -1,0 +1,23 @@
+{
+  "name": "Wooden Shield",
+  "icon": "icons/round-shield",
+  "audio": "audio/empty",
+  "type": 2,
+  "effects": [
+    {
+      "damage": 0,
+      "block": 3,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": true,
+      "hitsEnemy": false,
+      "hitDelays": [0.1],
+      "range": 0.0,
+      "size": 0.1,
+      "aoe_type": 0,
+      "keyword": "Shield 3",
+      "description": "Apply 3 Shield to self."
+    }
+  ],
+  "cardID": 911
+}

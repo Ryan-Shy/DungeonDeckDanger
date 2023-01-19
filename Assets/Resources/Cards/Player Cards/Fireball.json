@@ -1,0 +1,23 @@
+{
+  "name": "Fireball",
+  "icon": "icons/burning-round-shot",
+  "audio": "audio/empty",
+  "type": 1,
+  "effects": [
+    {
+      "damage": 3,
+      "block": 0,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": false,
+      "hitsEnemy": true,
+      "hitDelays": [0.5],
+      "range": 20.0,
+      "size": 2.0,
+      "aoe_type": 1,
+      "keyword": "Line 3",
+      "description": "Deal 3 Range damage in a long line in front."
+    }
+  ],
+  "cardID": 201
+}

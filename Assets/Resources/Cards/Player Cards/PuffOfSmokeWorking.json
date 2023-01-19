@@ -1,0 +1,23 @@
+{
+  "name": "Puff Of Smoke",
+  "icon": "icons/mushroom-cloud",
+  "audio": "audio/empty",
+  "type": 1,
+  "effects": [
+    {
+      "damage": 15,
+      "block": 0,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": false,
+      "hitsEnemy": true,
+      "hitDelays": [1.5],
+      "range": 5.0,
+      "size": 5.0,
+      "aoe_type": 0,
+      "keyword": "Unstable AOE 15",
+      "description": "Deals 15 range damage in a circle in front."
+    }
+  ],
+  "cardID": 903
+}

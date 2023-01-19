@@ -1,0 +1,23 @@
+{
+  "name": "Weak Line Attack",
+  "icon": "icons/ice-spear",
+  "audio": "audio/Spell_1.5s",
+  "type": 1,
+  "effects": [
+    {
+      "damage": 3,
+      "block": 0,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": true,
+      "hitsEnemy": false,
+      "hitDelays": [1.5],
+      "range": 8.0,
+      "size": 2.0,
+      "aoe_type": 0,
+      "keyword": "Line 3",
+      "description": "Deals 3 range damage in a line in front."
+    }
+  ],
+  "cardID": 1011
+}

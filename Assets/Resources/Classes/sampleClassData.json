@@ -1,0 +1,29 @@
+{
+    "currentHP": 50,
+    "maxHP": 50,
+    "currentShield": 0,
+    "maxShield": 50,
+    "currentCD": 3,
+    "maxCD": 3,
+    "playCD":0,
+    "maxPlayCD":1,
+    "maxHand": 5,
+    "classID": 0,
+    "packs": [
+      {
+        "custom": false,
+        "packID": 0,
+        "cardIDs":[0,1,0,1]
+      }
+    ],
+    "deck": [
+      {
+        "custom": false,
+        "packID": 0,
+        "cardIDs":[0,1,0,1]
+      }
+    ],
+    "currentDeck": [0,1,0,1],
+    "discardPile": [],
+    "currentHand": []
+}

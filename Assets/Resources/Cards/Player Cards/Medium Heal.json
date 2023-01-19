@@ -1,0 +1,23 @@
+{
+  "name": "Medium Heal",
+  "icon": "icons/healing",
+  "audio": "audio/empty",
+  "type": 4,
+  "effects": [
+    {
+      "damage": 0,
+      "block": 0,
+      "heal": 6,
+      "dash": 0.0,
+      "hitsPlayer": true,
+      "hitsEnemy": false,
+      "hitDelays": [0.1],
+      "range": 0.0,
+      "size": 0.1,
+      "aoe_type": 0,
+      "keyword": "Heal 6",
+      "description": "Heal yourself by 6 HP."
+    }
+  ],
+  "cardID": 200
+}

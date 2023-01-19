@@ -1,0 +1,23 @@
+{
+  "name": "Earthquake",
+  "icon": "icons/earth-crack",
+  "audio": "audio/empty",
+  "type": 1,
+  "effects": [
+    {
+      "damage": 6,
+      "block": 0,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": false,
+      "hitsEnemy": true,
+      "hitDelays": [0.9],
+      "range": 15.0,
+      "size": 8.0,
+      "aoe_type": 1,
+      "keyword": "Line 6",
+      "description": "Deal 6 Range damage in a wide line in front."
+    }
+  ],
+  "cardID": 906
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Warlord",
+    "icon": "icons/warlord-helmet",
+    "description": "The Warlord is a heavily armord class.\n He makes use of blocks to avoid taking damage and specilizes in melee attacks.",
+    "classID": 0
+  }

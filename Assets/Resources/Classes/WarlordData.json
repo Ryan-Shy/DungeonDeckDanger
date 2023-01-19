@@ -1,0 +1,39 @@
+{
+    "currentHP": 50,
+    "maxHP": 50,
+    "currentShield": 10,
+    "maxShield": 50,
+    "currentCD": 3,
+    "maxCD": 3,
+    "playCD":0,
+    "maxPlayCD":1,
+    "maxHand": 5,
+    "classID": 0,
+    "packs": [
+      {
+        "custom": false,
+        "packID": 10,
+        "cardIDs":[100,101,101,101,104]
+      },
+      {
+        "custom": false,
+        "packID": 11,
+        "cardIDs":[100,100,101,101,102]
+      }
+    ],
+    "deck": [
+      {
+        "custom": false,
+        "packID": 10,
+        "cardIDs":[100,101,101,101,104]
+      },
+      {
+        "custom": false,
+        "packID": 11,
+        "cardIDs":[100,100,101,101,102]
+      }
+    ],
+    "currentDeck": [],
+    "discardPile": [100,101,101,101,104,100,100,101,101,102],
+    "currentHand": []
+}

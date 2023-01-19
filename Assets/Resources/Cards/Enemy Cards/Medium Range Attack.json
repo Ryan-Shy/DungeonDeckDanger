@@ -1,0 +1,23 @@
+{
+  "name": "Medium Range Attack",
+  "icon": "icons/ice-spear",
+  "audio": "audio/Spell_2s",
+  "type": 1,
+  "effects": [
+    {
+      "damage": 8,
+      "block": 0,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": true,
+      "hitsEnemy": false,
+      "hitDelays": [2.0],
+      "range": 5.0,
+      "size": 5.0,
+      "aoe_type": 0,
+      "keyword": "AOE 8",
+      "description": "Deals 8 range damage in a circle in front."
+    }
+  ],
+  "cardID": 1002
+}

@@ -1,0 +1,37 @@
+{
+  "name": "the name",
+  "icon": "icon name",
+  "audio": "audio/empty",
+  "type": 0,
+  "effects": [
+    {
+      "damage": 1,
+      "block": 0,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": false,
+      "hitsEnemy": true,
+      "hitDelays": [0.2],
+      "range": 10.0,
+      "size": 1.0,
+      "aoe_type": 1,
+      "keyword": "Text on Card",
+      "description": "This is the description shown in Inventory"
+    },
+    {
+      "damage": 0,
+      "block": 5,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": true,
+      "hitsEnemy": false,
+      "hitDelays": [0.0],
+      "range": 0.0,
+      "size": 0.1,
+      "aoe_type": 0,
+      "keyword": "Block 5",
+      "description": "This is the description shown in Inventory"
+    }
+  ],
+  "cardID": 153854836
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Strong Line Attack",
+  "icon": "icons/ice-spear",
+  "audio": "audio/Spell_2.5s",
+  "type": 1,
+  "effects": [
+    {
+      "damage": 12,
+      "block": 0,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": true,
+      "hitsEnemy": false,
+      "hitDelays": [2.5],
+      "range": 11.0,
+      "size": 4.0,
+      "aoe_type": 1,
+      "keyword": "Line 12",
+      "description": "Deals 12 range damage in a line in front."
+    }
+  ],
+  "cardID": 1013
+}

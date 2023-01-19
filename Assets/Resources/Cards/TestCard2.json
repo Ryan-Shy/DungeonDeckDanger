@@ -1,0 +1,37 @@
+{
+  "name": "Test Card 2",
+  "icon": "icons/wizard-face",
+  "audio": "audio/empty",
+  "type": 12,
+  "effects": [
+    {
+      "damage": 0,
+      "block": 0,
+      "heal": 5,
+      "dash": 0.0,
+      "hitsPlayer": true,
+      "hitsEnemy": false,
+      "hitDelays": [0.1],
+      "range": 0.0,
+      "size": 0.1,
+      "aoe_type": 0,
+      "keyword": "Heal 5",
+      "description": "Heal yourself by 5 HP."
+    },
+    {
+      "damage": 0,
+      "block": 0,
+      "heal": 0,
+      "dash": 10.0,
+      "hitsPlayer": true,
+      "hitsEnemy": false,
+      "hitDelays": [],
+      "range": 0.0,
+      "size": 0.0,
+      "aoe_type": 0,
+      "keyword": "Dash 10",
+      "description": "Dash 10 meters forward."
+    }
+  ],
+  "cardID": 1
+}

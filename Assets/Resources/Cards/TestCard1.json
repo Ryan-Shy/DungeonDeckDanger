@@ -1,0 +1,23 @@
+{
+  "name": "Test Card 1",
+  "icon": "icons/warlord-helmet",
+  "audio": "audio/empty",
+  "type": 1,
+  "effects": [
+    {
+      "damage": 20,
+      "block": 0,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": true,
+      "hitsEnemy": true,
+      "hitDelays": [5.2],
+      "range": 2.0,
+      "size": 1.0,
+      "aoe_type": 2,
+      "keyword": "Melee 1",
+      "description": "Deal 1 Melee damage in a small area in front."
+    }
+  ],
+  "cardID": 0
+}

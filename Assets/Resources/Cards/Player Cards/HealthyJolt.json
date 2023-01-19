@@ -1,0 +1,23 @@
+{
+  "name": "Healthy Jolt",
+  "icon": "icons/defibrilate",
+  "audio": "audio/empty",
+  "type": 4,
+  "effects": [
+    {
+      "damage": 0,
+      "block": 0,
+      "heal": 12,
+      "dash": 0.0,
+      "hitsPlayer": true,
+      "hitsEnemy": false,
+      "hitDelays": [0.1],
+      "range": 0.0,
+      "size": 0.1,
+      "aoe_type": 0,
+      "keyword": "Heal 12",
+      "description": "Heal yourself by 12 HP."
+    }
+  ],
+  "cardID": 910
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Divine Protection",
+  "icon": "icons/bell-shield",
+  "audio": "audio/empty",
+  "type": 2,
+  "effects": [
+    {
+      "damage": 0,
+      "block": 5,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": true,
+      "hitsEnemy": false,
+      "hitDelays": [0.1],
+      "range": 0.0,
+      "size": 0.1,
+      "aoe_type": 0,
+      "keyword": "Shield 5",
+      "description": "Apply 5 Shield to self."
+    }
+  ],
+  "cardID": 907
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Strong Range Attack",
+  "icon": "icons/deadly-strike",
+  "audio": "audio/Spell_2.5s",
+  "type": 1,
+  "effects": [
+    {
+      "damage": 15,
+      "block": 0,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": true,
+      "hitsEnemy": false,
+      "hitDelays": [2.5],
+      "range": 5.0,
+      "size": 5.0,
+      "aoe_type": 0,
+      "keyword": "AOE 15",
+      "description": "Deals 15 range damage in a circle in front."
+    }
+  ],
+  "cardID": 1003
+}

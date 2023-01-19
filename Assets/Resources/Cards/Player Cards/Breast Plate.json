@@ -1,0 +1,23 @@
+{
+  "name": "Breast Plate",
+  "icon": "icons/chest-armor",
+  "audio": "audio/empty",
+  "type": 2,
+  "effects": [
+    {
+      "damage": 0,
+      "block": 10,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": true,
+      "hitsEnemy": false,
+      "hitDelays": [0.1],
+      "range": 0.0,
+      "size": 0.1,
+      "aoe_type": 0,
+      "keyword": "Shield 10",
+      "description": "Apply 10 Shield to self."
+    }
+  ],
+  "cardID": 104
+}

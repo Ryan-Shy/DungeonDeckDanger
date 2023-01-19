@@ -1,0 +1,6 @@
+{
+    "name": "Wizard",
+    "icon": "icons/wizard-face",
+    "description": "The Wizard excels at casting spells of various ranges to attack and defend.",
+    "classID": 1
+  }

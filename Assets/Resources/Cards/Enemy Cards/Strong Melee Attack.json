@@ -1,0 +1,23 @@
+{
+  "name": "Strong Melee Attack",
+  "icon": "icons/battle-axe",
+  "audio": "audio/Sword_2s",
+  "type": 1,
+  "effects": [
+    {
+      "damage": 12,
+      "block": 0,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": true,
+      "hitsEnemy": false,
+      "hitDelays": [2.0],
+      "range": 3.0,
+      "size": 3.0,
+      "aoe_type": 3,
+      "keyword": "Melee 12",
+      "description": "Deal 12 Melee damage in a small area in front."
+    }
+  ],
+  "cardID": 1033
+}

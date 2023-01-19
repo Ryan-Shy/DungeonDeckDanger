@@ -1,0 +1,23 @@
+{
+  "name": "Weak Sweep Attack",
+  "icon": "icons/battered-axe",
+  "audio": "audio/Sword_1s",
+  "type": 1,
+  "effects": [
+    {
+      "damage": 3,
+      "block": 0,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": true,
+      "hitsEnemy": false,
+      "hitDelays": [1.0],
+      "range": 3.0,
+      "size": 1.0,
+      "aoe_type": 2,
+      "keyword": "Sweep 3",
+      "description": "Deal 3 Melee damage in a large area in front."
+    }
+  ],
+  "cardID": 1021
+}

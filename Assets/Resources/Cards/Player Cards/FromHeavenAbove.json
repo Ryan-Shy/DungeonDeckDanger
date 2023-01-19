@@ -1,0 +1,23 @@
+{
+  "name": "From Heaven Above",
+  "icon": "icons/deadly-strike",
+  "audio": "audio/empty",
+  "type": 1,
+  "effects": [
+    {
+      "damage": 8,
+      "block": 0,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": false,
+      "hitsEnemy": true,
+      "hitDelays": [1.5],
+      "range": 5.0,
+      "size": 5.0,
+      "aoe_type": 0,
+      "keyword": "AOE 8",
+      "description": "Deals 8 range damage in a circle in front."
+    }
+  ],
+  "cardID": 905
+}

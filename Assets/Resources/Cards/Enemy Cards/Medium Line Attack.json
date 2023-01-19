@@ -1,0 +1,23 @@
+{
+  "name": "Medium Line Attack",
+  "icon": "icons/ice-spear",
+  "audio": "audio/Spell_2s",
+  "type": 1,
+  "effects": [
+    {
+      "damage": 6,
+      "block": 0,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": true,
+      "hitsEnemy": false,
+      "hitDelays": [2.0],
+      "range": 10.0,
+      "size": 3.0,
+      "aoe_type": 1,
+      "keyword": "Line 6",
+      "description": "Deals 6 range damage in a line in front."
+    }
+  ],
+  "cardID": 1012
+}

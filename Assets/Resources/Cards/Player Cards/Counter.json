@@ -1,0 +1,37 @@
+{
+  "name": "Counter",
+  "icon": "icons/shield-reflect",
+  "audio": "audio/empty",
+  "type": 3,
+  "effects": [
+    {
+      "damage": 0,
+      "block": 3,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": true,
+      "hitsEnemy": false,
+      "hitDelays": [0.1],
+      "range": 0.0,
+      "size": 0.1,
+      "aoe_type": 0,
+      "keyword": "Shield 3",
+      "description": "Apply 3 Shield to self."
+    },
+    {
+      "damage": 4,
+      "block": 0,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": false,
+      "hitsEnemy": true,
+      "hitDelays": [0.1],
+      "range": 2.0,
+      "size": 1.0,
+      "aoe_type": 3,
+      "keyword": "Melee 4",
+      "description": "Deal 4 Melee damage in a small area in front."
+    }
+  ],
+  "cardID": 908
+}

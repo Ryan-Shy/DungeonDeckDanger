@@ -1,0 +1,23 @@
+{
+  "name": "Divide and Conquer",
+  "icon": "icons/war-axe",
+  "audio": "audio/empty",
+  "type": 1,
+  "effects": [
+    {
+      "damage": 8,
+      "block": 0,
+      "heal": 0,
+      "dash": 0.0,
+      "hitsPlayer": false,
+      "hitsEnemy": true,
+      "hitDelays": [0.8],
+      "range": 3.0,
+      "size": 3.0,
+      "aoe_type": 2,
+      "keyword": "Sweep 8",
+      "description": "Deal 8 Melee damage in a wide area in front."
+    }
+  ],
+  "cardID": 102
+}

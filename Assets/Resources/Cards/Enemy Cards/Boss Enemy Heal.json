@@ -1,0 +1,23 @@
+{
+  "name": "Boss Enemy Heal",
+  "icon": "icons/healing",
+  "audio": "audio/empty",
+  "type": 4,
+  "effects": [
+    {
+      "damage": 0,
+      "block": 0,
+      "heal": 20,
+      "dash": 0.0,
+      "hitsPlayer": false,
+      "hitsEnemy": true,
+      "hitDelays": [0.5],
+      "range": 0.0,
+      "size": 0.1,
+      "aoe_type": 0,
+      "keyword": "Heal 20",
+      "description": "Heal enemy by 20 HP."
+    }
+  ],
+  "cardID": 1202
+}

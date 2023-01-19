@@ -1,0 +1,17 @@
+{
+    "id":"",
+    "currentHP":10,
+    "maxHP":10,
+    "currentShield":0,
+    "maxShield":10,
+    "currentCD":15,
+    "maxCD":15,
+    "currentAICD":10,
+    "maxAICD":10,
+    "maxHand":3,
+    "isDead":false,
+    "isBoss":false,
+    "currentDeck":[],
+    "discardPile":[1001,1001,1002,1002,1003],
+    "currentHand":[1101,1201]
+}
