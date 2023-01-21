@@ -1419,10 +1419,9 @@ MonoBehaviour:
   m_text: "While exploring the Dungeon you may stumble uppon some Chests. Opening
     them will give you the opportunity to collect new Packs with various powerfull
     Cards. \n\nAfter collecting a new Pack, you can add the Pack to your Deck using
-    the Inventory. There you can also remove Packs from your Deck. \nThe note that
-    editing your Deck will reset all Cards from your current Hand\n\nThere is no
-    Limit on how many Packs you can have in your Collection, nor is there a Limit
-    to the Decksize."
+    the Inventory. There you can also remove Packs from your Deck. \nNote that editing
+    your Deck will reset all Cards from your current Hand!\n\nThere is no Limit on
+    how many Packs you can have in your Collection, nor is there a Limit to the Decksize."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cb4a72fd02986974dbe24a32526fa740, type: 2}
   m_sharedMaterial: {fileID: -1257581440463160197, guid: cb4a72fd02986974dbe24a32526fa740, type: 2}

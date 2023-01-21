@@ -503,11 +503,11 @@ MonoBehaviour:
   - {fileID: 2943573580215565193, guid: 66c489259811bfe4fb7ca093dac4207c, type: 3}
   - {fileID: 2943573580215565193, guid: 1b5f100496e97d54cb32a39f2a6fafae, type: 3}
   useBoxColliders: 0
-  useLightsforDebugging: 1
+  useLightsforDebugging: 0
   restoreLightsAfterDebugging: 0
   reloadKey: 271
   toogleMapKey: 109
-  constructionDelay: 0.1
+  constructionDelay: 0
   mainLength: 45
   branchLength: 10
   numBranch: 10

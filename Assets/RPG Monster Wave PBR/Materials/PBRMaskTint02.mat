@@ -42,13 +42,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Brightness: 1.2
+    - _Brightness: 1.01
     - _Color01Power: 1.58
     - _Color02Power: 3.27
-    - _Color03Power: 1.62
+    - _Color03Power: 1.67
     - __dirty: 1
     m_Colors:
-    - _Color01: {r: 1, g: 0.11576602, b: 0, a: 0}
-    - _Color02: {r: 0.65882355, g: 0.053432886, b: 0.015686255, a: 0}
-    - _Color03: {r: 0.7830189, g: 0.18046832, b: 0, a: 0}
+    - _Color01: {r: 0.7735849, g: 0.7081232, b: 0.07662869, a: 0}
+    - _Color02: {r: 0.24467789, g: 0.754717, b: 0.18155926, a: 0}
+    - _Color03: {r: 0.49056602, g: 0.2916237, b: 0.21057315, a: 0}
   m_BuildTextureStacks: []
