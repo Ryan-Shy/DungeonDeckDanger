@@ -51,6 +51,20 @@ public class PlayerMovement : MonoBehaviour {
         velocity.y += gravity * Time.deltaTime;
         controller.Move(velocity * Time.deltaTime);
         transform.rotation = Quaternion.Euler(0, transform.eulerAngles.y, 0);
-    }
+		UpdateGlitchPrevention();
+	}
+
+	private void UpdateGlitchPrevention()
+	{
+		if (transform.position.y < -100)
+		{
+			//List<Tile> tiles = GameObject.Find("Generator").GetComponent<DungeonGenerator>().generatedTiles;
+			//transform.position = tiles[0].tile.position;
+			// start tile is always at 0,0,0
+			controller.enabled = false;
+			transform.position = Vector3.zero;
+			controller.enabled = true;
+		}
+	}
 
 }
